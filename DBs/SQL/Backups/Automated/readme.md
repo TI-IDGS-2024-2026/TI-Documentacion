@@ -9,9 +9,9 @@ En esta seccción se almacenarán los scripts de código para realizar los respa
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
 |M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder de Desarrollo FrontEnd|✔️  Revisado y aprobado|
-|Edgar Cruz Salas|[@Ederdal](https://github.com/Ederdal)|Desarrollador de DataBases|❌ Sin Comentarios|
-|Carolina Arias Reyes|[@pozole10](https://github.com/pozole10)|Desarrollador FronEnd|❌ Sin Comentarios|
-|Ángel Zacek Gutiérrez Cruz|[@zac-ek](https://github.com/zac-ek)|Desarrollador Backend|❌ Sin Comentarios|
+|Edgar Cruz Salas|[@Ederdal](https://github.com/Ederdal)|Desarrollador de DataBases|✔️  Revisado y aprobado|
+|Carolina Arias Reyes|[@pozole10](https://github.com/pozole10)|Desarrollador FronEnd|✔️  Revisado y aprobado|
+|Ángel Zacek Gutiérrez Cruz|[@zac-ek](https://github.com/zac-ek)|Desarrollador Backend|✔️  Revisado y aprobado|
 
 
 
