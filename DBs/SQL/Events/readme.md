@@ -2,7 +2,7 @@
 
 Este archivo events.sql gestiona la base de datos para almacenar y organizar eventos 🗓️ y sus participantes 👥, asegurando que las relaciones entre tablas estén correctamente establecidas.
 
-Características
+## Características
 Creación de tablas para Eventos 🏷️, Participantes 🧑‍🤝‍🧑, y más.
 Relaciones entre tablas con claves foráneas 🔑.
 Datos de ejemplo para pruebas ⚙️.
@@ -13,5 +13,6 @@ Datos de ejemplo para pruebas ⚙️.
 | Alina Bonilla Paredes        | [Perfil Alina](https://github.com/Ali-2121) | Documentadora Técnica | ❌ Sin Comentarios |
 | Carlos Jesus Carballo Cruz   | [Perfil Carballo](https://github.com/CarlosJ67) | Desarrollador Frontend | ❌ Sin Comentarios |
 | Jesus Emmanuel Arroyo Rangel | [Perfil Arroyo](https://github.com/des-arrosho) | Desarrollo de Base de Datos | ❌ Sin Comentarios |
+
 
 Creado por: [@Amauri](https://github.com/Alex01Dev)
