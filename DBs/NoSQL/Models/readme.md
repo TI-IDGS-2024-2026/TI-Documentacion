@@ -12,4 +12,4 @@ La carpeta **Models** contiene los esquemas y estructuras de datos diseñados pa
 |Diego Hernández Mota|[@MotaBytes](https://github.com/MotaBytes)|Desarrollador Frontend|✔️ Validado|
 |Raul Reyes batalla|[@RaulReyesB](https://github.com/RaulReyesB)|Desarrollador Base de datos|...|
 
-Hecho por: Diego Hernandez Mota
+Hecho por: [@MotaBytes](https://github.com/MotaBytes)
