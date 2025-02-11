@@ -23,3 +23,7 @@ El propósito de esta carpeta es automatizar el proceso de introducción de dato
 | Aldo Tolentino Domingo            | @Aldotd12            | ❌ Sin Observaciones      |
 | Angel David Reyes Téllez          | @AngelR003           | ❌ Sin Observaciones      |
 | Irving Morales Domínguez          | @IrvingMordo26       | ❌ Sin Observaciones      |
+
+---
+
+**Hecho por:**  [Luis Ivan Marquez](https://github.com/luisivmaraz) -- 220401 -- 8A IDGS
