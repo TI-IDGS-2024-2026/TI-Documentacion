@@ -4,9 +4,9 @@ Esta Carpeta función principal es servir como una referencia clara y estructura
 
 |Integrante|Contacto|Rol|Observaciones|
 |----------|--------|---|-------------|
-|Jaime Vázquez Santiago|[@jaimevs](https://github.com/jaimevs)|Líder de Desarrollo Frontend|Revisado y aprobado|
-|Ana Karen Crisantos Reyes|[@AnaCrisanto](https://github.com/AnaCrisanto)|Desarrollador de Bases de Datos|Sin Comentarios|
-|Martin Vargas Gutierrez|[@MRVargas19](https://github.com/MRVargas19)|Desarrollador FrontEnd|❌ Sin Comentarios|
+|Jaime Vázquez Santiago|[@jaimevs](https://github.com/jaimevs)|Líder de Desarrollo Frontend|❌ Sin Comentarios|
+|Ana Karen Crisantos Reyes|[@AnaCrisanto](https://github.com/AnaCrisanto)|Desarrollador de Bases de Datos|❌ Sin Comentarios|
+|Martin Vargas Gutierrez|[@MRVargas19](https://github.com/MRVargas19)|Desarrollador FrontEnd|✅ Revisado y aprobado|
 |Alejandro Gonzales Romero|[@AlejandroRomero17](https://github.com/AlejandroRomero17)|Desarrollador Backend|❌ Sin Comentarios|
 
 Creado por: [@MRVargas19](https://github.com/MRVargas19).
