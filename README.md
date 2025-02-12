@@ -28,7 +28,7 @@ Respositorio de Prueba para la Documentación del Proyecto Integrador de 8vo. Se
 
 # Preparando repo para merge de Neftali
 
-# Preparando repo para merge de Luis Abdiel
+# Preparando repo para merge de Abdiel
 
 # Preparando repo para merge de Brayn Kalid
 
