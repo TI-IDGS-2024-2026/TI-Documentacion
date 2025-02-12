@@ -37,3 +37,5 @@ Respositorio de Prueba para la Documentación del Proyecto Integrador de 8vo. Se
 # Preparando repo para merge de Haziel
 
 # Preparando repo para merge de Jareni
+
+# Preparando repo para merge de Esaú
