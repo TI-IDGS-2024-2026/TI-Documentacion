@@ -1,4 +1,6 @@
- 
+#Respaldos automatizados parciales completos.
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
+![Documentation](https://img.shields.io/badge/Documentation-Complete-brightgreen) 
  
 Respaldos automatizados Parciales
 Este directorio contiene los archivos relacionados con el proceso de Respaldos automatizados Parciales. Aquí se encuentran los scripts y configuraciones necesarias para la generación, almacenamiento y restauración de respaldos de datos de manera automatizada y parcial.
@@ -17,8 +19,8 @@ Ruta:TI-Documentacion/DBs/SQL/Automated/Partial/readme.md
 |------------|--------|---|---|
 |José Daniel Loza Marín |[@PpGrillo1511](https://github.com/PpGrillo1511)|Líder y Desarrollador BackEnd|✔️  Revisado y aprobado|
 |Griselda Cabrera Franco |[@gris12elda](https://github.com/gris12elda)|Desarrollador FronEnd|❌ Sin Comentarios|
-|Jareni Gómez Juan |[@jare02](https://github.com/jare02)|Desarrollador FronEnd|✔️ Sin Comentarios|
+|Jareni Gómez Juan |[@jareni02](https://github.com/jareni02)|Desarrollador FronEnd|✔️ Sin Comentarios|
 |Luis Abdiel Rivera Gayosso |[@LuisAbdielRivera](https://github.com/LuisAbdielRivera)|Desarrollador Backend|❌ Sin Comentarios|
 |Esaú Vargas Álvarez |[@Giggs007](https://github.com/Giggs007)|Desarrollador Backend|❌ Sin Comentarios|
 
-Hecho por: [@jare02](https://github.com/jare02)| 8A IDGS
+Hecho por: [@jareni02](https://github.com/jareni02)| 8A IDGS
