@@ -1,4 +1,4 @@
-# 📂 Business Rules
+# 📂 Requerimientos no Funcionales NFRs
 
 ![Business Rules](https://img.shields.io/badge/Business%20Rules-Critical-orange)
 ![Documentation](https://img.shields.io/badge/Documentation-Complete-brightgreen)
@@ -16,11 +16,11 @@ Se incluyen:
 - Compatibilidad e interoperabilidad.
 
 ## 🏆 Integrantes del Equipo
-| Integrante                     | Contacto          | Rol                          | Observaciones     |
-|--------------------------------|-------------------|------------------------------|-------------------|
-| *Julia Maday Martínez Santos*  | 📧 (@JuliaMaday)  | Desarrollador Frontend       | ✔️  Revisado y aprobado |
-| *Orlando Méndez Montes*        | 📧 (@MendezPro)   | Líder del Proyecto, Backend  | ❌ No Revisado |
-| *Zamira Cuevas Zamora*         | 📧 (@ZamyCuevas)  | Documentadora Técnica        | ❌ No Revisado |
-| *Esperanza Cruz Galindo*       | 📧 (@Dulce990)    | Desarrollo de Base de Datos  | ❌ No Revisado |
+|Integrante|Contacto|Rol|Observaciones|
+|----------|--------|---|-------------|
+|Orlando Méndez Montes|[@MendezPro](https://github.com/MendezPro)|Líder de Desarrollo Frontend|❌ Sin Comentarios|
+|Zamira Cuevas Zamora|[@ZamyCuevas](https://github.com/ZamyCuevas)|Desarrollador de Bases de Datos| ❌ Sin Comentarios|
+|Julia Maday Martinez Santos|[@JuliaMaday](https://github.com/JuliaMaday)|Desarrollador BackEnd|✅ Revisado y aprobado|
+|Esperanza Cruz Galindo|[@Dulce990](https://github.com/Dulce990)|Desarrollador FrontEnd|❌ Sin Comentarios|
 
-Hecho por: Julia Maday Martinez Santos - 2208362 - 8B IDGS
+Hecho por: Julia Maday Martinez Santos [@JuliaMaday](https://github.com/JuliaMaday). - 2208362 - 8B IDGS
