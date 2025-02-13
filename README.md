@@ -76,7 +76,7 @@ Respositorio de Prueba para la Documentación del Proyecto Integrador de 8vo. Se
 
 # Preparando repo para merge de Amauri
 
-# Preparando repo para merge de Jose Luis
+# Preparando repo para merge de Jose Luis H
 
 # Preparando repo para merge de Irving 
 
