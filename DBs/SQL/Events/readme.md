@@ -14,5 +14,6 @@ Datos de ejemplo para pruebas ⚙️.
 | Carlos Jesus Carballo Cruz   | [Perfil Carballo](https://github.com/CarlosJ67) | Desarrollador Frontend | ❌ Sin Comentarios |
 | Jesus Emmanuel Arroyo Rangel | [Perfil Arroyo](https://github.com/des-arrosho) | Desarrollo de Base de Datos | ❌ Sin Comentarios |
 
+---
 
 Creado por: [@Amauri](https://github.com/Alex01Dev)
