@@ -1,4 +1,4 @@
-#  Support (Soporte) 📂[!Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+#  Support (Soporte) 📂![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 El conjunto de recursos y asistencia que se brinda a los usuarios para asegurar que puedan utilizar una aplicación o servicio de manera efectiva. Este soporte puede incluir guías, tutoriales, asistencia técnica, y FAQs, entre otros.
 
