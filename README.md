@@ -60,7 +60,7 @@ Respositorio de Prueba para la Documentación del Proyecto Integrador de 8vo. Se
 
 # Preparando Repo para merge de Orlando Mendez
 
-# Preparando Repo para marge de JuliaMaday
+# Preparando Repo para marge de Julia
 
 # Preparando Repo para merge de Alejandro Romero.
 
