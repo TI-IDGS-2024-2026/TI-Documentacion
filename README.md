@@ -46,7 +46,7 @@ Respositorio de Prueba para la Documentación del Proyecto Integrador de 8vo. Se
 
 # Preparando Repo para merge de Carballo
 
-# Preparando Repo para merge de Ana Karen
+# Preparando Repo para merge de Ana Karen.
 
 # Preparando Repo para merge de Mariano
 
