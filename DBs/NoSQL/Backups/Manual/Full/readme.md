@@ -3,7 +3,7 @@
 La aplicación también utiliza una base de datos NoSQL alojada en **MongoDB Atlas**. La carpeta `MongoDB` contiene los archivos de configuración para conectar y operar la base de datos MongoDB. En `Atlas` encontrarás configuraciones específicas para la integración con MongoDB Atlas, la plataforma de base de datos en la nube.
 
 ---
-
+ 
 ## Estructura de Archivos
 
 >| - **DBs** <br>
@@ -35,3 +35,6 @@ La aplicación también utiliza una base de datos NoSQL alojada en **MongoDB Atl
 | Aldo Tolentino Domingo | [@Aldotd12](https://github.com/Aldotd12) | ❌ No revisado |
 | David Reyes Tellez | [@angelR003](https://github.com/angelR003) | ❌ No revisado |
 | Irving Morales Domínguez | [@IrvingMordo26](https://github.com/IrvingMordo26) | ✔️ Revisado y aprobado |
+
+
+Creado por [@Irving Morales](https://github.com/IrvingMordo)
