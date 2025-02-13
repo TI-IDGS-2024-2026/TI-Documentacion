@@ -16,12 +16,13 @@ Se incluyen:
 
 ## 🏆 Integrantes del Equipo
 
-| Integrante                     | Contacto          | Rol                          | Observaciones     |
-|--------------------------------|-------------------|------------------------------|-------------------|
-| *Orlando Méndez Montes*        | 📧 (@MendezPro)   | Líder del Proyecto, Backend  | ✔️  Revisado y aprobado |
-| *Zamira Cuevas Zamora*         | 📧 (@ZamyCuevas)  | Documentadora Técnica        | ❌ No Revisado |
-| *Julia Maday Martínez Santos*  | 📧 (@JuliaMaday)  | Desarrollador Frontend       | ❌ No Revisado |
-| *Esperanza Cruz Galindo*       | 📧 (@Dulce990)    | Desarrollo de Base de Datos  | ❌ No Revisado |
+|Integrante|Contacto|Rol|Observaciones|
+|----------|--------|---|-------------|
+|Orlando Méndez Montes|[@MendezPro](https://github.com/MendezPro)|Líder de Desarrollo Frontend|✅ Revisado y aprobado|
+|Zamira Cuevas Zamora|[@ZamyCuevas](https://github.com/ZamyCuevas)|Desarrollador de Bases de Datos| ❌ Sin Comentarios|
+|Julia Maday Martinez Santos|[@JuliaMaday](https://github.com/JuliaMaday)|Desarrollador BackEnd|❌ Sin Comentarios|
+|Esperanza Cruz Galindo|[@Dulce990](https://github.com/Dulce990)|Desarrollador FrontEnd|❌ Sin Comentarios|
 
-Hecho por: **Esperanza Cruz Galindo** - 220262 - 8B IDGS
+Creado por: [@Dulce990](https://github.com/Dulce990).
+
  
