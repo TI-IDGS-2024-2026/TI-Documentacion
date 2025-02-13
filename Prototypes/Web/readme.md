@@ -1,7 +1,7 @@
 # Prototype Documentation  ![VUE](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ## Descripción
-Poblate hace referencia a una serie de scripts diseñados para poblar bases de datos MySQL con datos de prueba.
+Esta seccion es para la documentacion del prototipo web.
 
 ## Integrantes del equipo
 | Colaborador                  | Perfil                            | Contribuciones                    | Revisión |
