@@ -12,5 +12,6 @@ La carpeta **Triggers** contiene los disparadores (triggers) implementados en la
 
 ---
 
+
 ### ✒️ **Datos del Autor**  
 **Creado por:** [@Bere-Avila](https://github.com/Bere-Avila) 
