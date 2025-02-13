@@ -74,4 +74,6 @@ Respositorio de Prueba para la Documentación del Proyecto Integrador de 8vo. Se
 
 # Preparando repo para merge de Brayto
 
+# Preparando repo para merge de Amauri
+
 # Preparando repo para merge de Jose Luis
