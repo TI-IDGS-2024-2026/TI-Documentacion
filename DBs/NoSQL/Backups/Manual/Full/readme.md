@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##  Manual Full NoSql 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%20-blue?style=flat&logo=mongodb)  ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-%20-green?style=flat&logo=mongodb)
 
@@ -36,6 +37,7 @@ La aplicación también utiliza una base de datos NoSQL alojada en **MongoDB Atl
 | Aldo Tolentino Domingo | [@Aldotd12](https://github.com/Aldotd12) | ❌ No revisado |
 | David Reyes Tellez | [@angelR003](https://github.com/angelR003) | ❌ No revisado |
 | Irving Morales Domínguez | [@IrvingMordo26](https://github.com/IrvingMordo26) | ✔️ Revisado y aprobado |
+
 
 
 Creado por [@Irving Morales Dominguez](https://github.com/IrvingMordo) 
