@@ -19,4 +19,4 @@ La carpeta **CSS** contiene los archivos de hojas de estilo en cascada (CSS) uti
 - **Buenas Prácticas**: Seguir las convenciones de nombres de clases BEM (Block, Element, Modifier) para mantener un código limpio y escalable.
 
 ## Autor
-Creado por:y [@JoséLuisCM663](https://github.com/JoséLuisCM663).
+Creado por: [@JoséLuisCM663](https://github.com/JoséLuisCM663).
