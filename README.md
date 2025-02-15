@@ -80,3 +80,4 @@ Respositorio de Prueba para la Documentación del Proyecto Integrador de 8vo. Se
 
 # Preparando repo para merge de Irving 
 
+# Preparando repo para merge de Lemuel
