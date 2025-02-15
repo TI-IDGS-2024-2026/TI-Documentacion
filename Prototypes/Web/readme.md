@@ -10,6 +10,7 @@ Esta seccion es para la documentacion del prototipo web.
 | Jose Angel Fosado Animas       | [@JFosado](https://github.com/JFosado) | UX/UI Desarrollador Frontend | ❌ Sin Comentarios |
 | Jazziel Rodriguez   | [@JazzoLopez](https://github.com/JazzoLopez) | Desarrollador Backend | ❌ Sin Comentarios |
 | Brayan Roberto Bernabe | [@BraytoGBDX](https://github.com/BraytoGBDX) | Desarrollo Backend| ❌ Sin Comentarios |
+
 ---
 
 Creado por:  [@BraytoGBDX](https://github.com/BraytoGBDX)
