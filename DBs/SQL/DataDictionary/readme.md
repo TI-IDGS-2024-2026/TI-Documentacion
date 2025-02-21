@@ -54,9 +54,13 @@ Dado que este proyecto está orientado a la **gestión de Recursos Humanos en un
 Abreviaturas de UDN's
 
    **RM:** Recursos Materiales
+
    **RH:** Recursos Humanos
+
    **SM:** Servicios Médicos
+
    **RG:** Registros Médicos
+   
    **FR:** Farmacia
 
 
