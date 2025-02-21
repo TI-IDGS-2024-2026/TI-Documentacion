@@ -31,6 +31,45 @@ Dado que este proyecto está orientado a la **gestión de Recursos Humanos en un
 
 |*No.*|*Entidad (Tabla)* |*UDNs Dueño*|*UDNs Escritura*|*UDNs Lectura*|*Documentador*|
 |----------|--------|---|-------------|---|----|
+|1|Area|RM|RH|Todas|Por definir|
+|2|Bitacora|PM|Todas|Todas|Marco R.|
+|3|Consumible|RM|RM|Todas|Por definir|
+|4|Cirugía|SM|SM,RM|Todas|Por definir|
+|5|Cita Medica|SM|SM,RM,RG|Todos|Por definir|
+|6|Departamento|RH|RH|Todas|Por definir|
+|7|Espacio|RM|RM|Todas|Por definir|
+|8|Estudio Medico|SM|SM|Por definir|Por definir|
+|9|Medicamento|FR|FR|Por definir|Por definir|
+|10|Nacimiento|RG|RH|Por definir|Por definir|
+|11|Paciente|RG|RG|Por definir|Por definir|
+|12|Persona|RG|RG|Por definir|Por definir|
+|13|Personal Médico|RH|RH|Por definir|Por definir|
+|14|Puesto|RH|RH|Por definir|Por definir|
+|15|Rol|PM|PM|Por definir|MTI. Marco R.|
+|16|Servicio Medico|SM|SM|Por definir|Por definir|
+|17|Usuario|PM|PM|Todos|MTI. Marco R.|
+|18|Valoración Médica|RG|RM|Todos|Por definir|
+
+
+Abreviaturas de UDN's
+
+   **RM:** Recursos Materiales
+   **RH:** Recursos Humanos
+   **SM:** Servicios Médicos
+   **RG:** Registros Médicos
+   **FR:** Farmacia
+
+
+
+---
+# 8°B IDGS - 2025 -   Caso de Estudio : Gimnasio
+---
+## 🏋️ Aplicación en el Proyecto  
+Dado que este proyecto está orientado a la **gestión de Recursos Humanos en un Hospital de Nivel 4**, el diccionario de datos será clave para definir correctamente atributos como:  
+
+
+|*No.*|*Entidad (Tabla)* |*UDNs Dueño*|*UDNs Escritura*|*UDNs Lectura*|*Documentador*|
+|----------|--------|---|-------------|---|----|
 |1|Bitacora|PM - Marco|Todas|Ninguna|MTI. Marco R.|
 |2|Cliente|SaC|SaC, CLI|Todas|Jaime V.|
 |3|Colaborador|RH|RH| Por definir|Lemuel E.|
@@ -48,21 +87,6 @@ Abreviaturas de UDN's
    **RM:** Recursos Materiales
    **RH:** Recursos Humanos
 
-
-
----
-# 8°B IDGS - 2025 -   Caso de Estudio : Gimnasio
----
-## 🏋️ Aplicación en el Proyecto  
-Dado que este proyecto está orientado a la **gestión de Recursos Humanos en un Hospital de Nivel 4**, el diccionario de datos será clave para definir correctamente atributos como:  
-
-|*No.*|*Entidad (Tabla)* |*UDNs Dueño*|*UDNs Escritura*|*UDNs Lectura*
-|----------|--------|---|-------------|---|
-|1|Bitacora|PM - Marco|Todas|Ninguna|
-|2|Cliente|SaC|SaC, CLI|Todas|
-|3|Colaborador|RH|RH| Por definir|
-|4|Dieta|TR|TR, CLI|Por definir|
-|5|Ejercicio|TR|TR|TR, SaC, CLI|
 
 
 Este documento servirá como referencia fundamental para garantizar la precisión y confiabilidad de la información dentro del sistema.  
