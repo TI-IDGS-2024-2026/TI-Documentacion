@@ -37,7 +37,7 @@ Dado que este proyecto está orientado a la **gestión de Recursos Humanos en un
 |4|Cirugía|SM|SM,RM|Todas|Por definir|
 |5|Cita Medica|SM|SM,RM,RG|Todos|Por definir|
 |6|Departamento|RH|RH|Todas|Por definir|
-|7|Espacio|RM|RM|Todas|Por definir|
+|7|Espacio|RM|RM|Todas|Jose Angel|
 |8|Estudio Medico|SM|SM|Por definir|Por definir|
 |9|Medicamento|FR|FR|Por definir|Por definir|
 |10|Nacimiento|RG|RH|Por definir|Por definir|
