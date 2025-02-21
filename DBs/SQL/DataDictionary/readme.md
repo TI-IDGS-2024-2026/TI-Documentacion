@@ -29,13 +29,24 @@ Contribuye a garantizar que el sistema cumpla con regulaciones de **seguridad y 
 ## 🏥 Aplicación en el Proyecto  
 Dado que este proyecto está orientado a la **gestión de Recursos Humanos en un Hospital de Nivel 4**, el diccionario de datos será clave para definir correctamente atributos como:  
 
-|*No.*|*Entidad (Tabla)* |*UDNs Dueño*|*UDNs Escritura*|*UDNs Lectura*
-|----------|--------|---|-------------|---|
-|1|Bitacora|PM - Marco|Todas|Ninguna|
-|2|Cliente|SaC|SaC, CLI|Todas|
-|3|Colaborador|RH|RH| Por definir|
-|4|Dieta|TR|TR, CLI|Por definir|
-|5|Ejercicio|TR|TR|TR, SaC, CLI|
+|*No.*|*Entidad (Tabla)* |*UDNs Dueño*|*UDNs Escritura*|*UDNs Lectura*|*Documentador*|
+|----------|--------|---|-------------|---|----|
+|1|Bitacora|PM - Marco|Todas|Ninguna|MTI. Marco R.|
+|2|Cliente|SaC|SaC, CLI|Todas|Jaime V.|
+|3|Colaborador|RH|RH| Por definir|Lemuel E.|
+|4|Dieta|TR|TR, CLI|Por definir|Orlando M.|
+|5|Ejercicio|TR|TR|TR, SaC, CLI|Brayan G.|
+|6|Equipamiento|RM|RM|Por definir|Mariano F.|
+|7|Espacio|RM|RM|Por definir|Mariano. F.|
+|8|Expediente Médico|TR|TR|Por definir|Julia M.|
+|9|Horario|RH|RH|Por definir|Jose Luis C.|
+
+
+Abreviaturas de UDN's
+
+   **GR:** Gerencia
+   **RM:** Recursos Materiales
+   **RH:** Recursos Humanos
 
 
 
