@@ -48,7 +48,7 @@ Dado que este proyecto está orientado a la **gestión de Recursos Humanos en un
 |15|Rol|PM|PM|Por definir|MTI. Marco R.|
 |16|Servicio Medico|SM|SM|Por definir|Por definir|
 |17|Usuario|PM|PM|Todos|MTI. Marco R.|
-|18|Valoración Médica|RG|RM|Todos|Por definir|
+|18|Valoración Médica|RG|RM|Todos|Octavio|
 
 
 Abreviaturas de UDN's
