@@ -17,7 +17,7 @@ Permite una planificación estructurada de la base de datos, asegurando la integ
 Sirve como referencia común para **desarrolladores, analistas, administradores de bases de datos y usuarios**, promoviendo una comprensión clara de los datos y su estructura.  
 
 ### 📌 4. Documentación para Mantenimiento  
-Facilita futuras modificaciones y mejoras en el sistema sin afectar la estructura ni la consistencia de los datos almacenados.  
+Facilita futuras modificaciones y mejoras en el sistema sin afectar la estructura ni la consistencia de los datos a-lmacenados.  
 
 ### 📌 5. Cumplimiento de Normativas  
 Contribuye a garantizar que el sistema cumpla con regulaciones de **seguridad y privacidad de datos** como **GDPR** o **HIPAA**, reduciendo riesgos legales y operativos.  
@@ -31,24 +31,33 @@ Dado que este proyecto está orientado a la **gestión de Recursos Humanos en un
 
 |*No.*|*Entidad (Tabla)* |*UDNs Dueño*|*UDNs Escritura*|*UDNs Lectura*|*Documentador*|
 |----------|--------|---|-------------|---|----|
-|1|Area|RM|RH|Todas|Por definir|
+|1|Area|RM|RH|Todas|Luis I. Máquez|
 |2|Bitacora|PM|Todas|Todas|Marco R.|
-|3|Consumible|RM|RM|Todas|Por definir|
-|4|Cirugía|SM|SM,RM|Todas|Por definir|
-|5|Cita Medica|SM|SM,RM,RG|Todos|Por definir|
+|3|Consumible|RM|RM|Todas|Aldo Tolentino|
+|4|Cirugía|SM|SM,RM|Todas|Edgar Cruz|
+|5|Cita Medica|SM|SM,RM,RG|Todos|Diego Mota|
 |6|Departamento|RH|RH|Todas|Por definir|
-|7|Espacio|RM|RM|Todas|Jose Angel|
-|8|Estudio Medico|SM|SM|Por definir|Por definir|
-|9|Medicamento|FR|FR|Por definir|Por definir|
-|10|Nacimiento|RG|RH|Por definir|Por definir|
-|11|Paciente|RG|RG|Por definir|Por definir|
-|12|Persona|RG|RG|Por definir|Por definir|
-|13|Personal Médico|RH|RH|Por definir|Por definir|
-|14|Puesto|RH|RH|Por definir|Por definir|
+|7|Espacio|RM|RM|Todas|Brayan K. Reyes|
+|8|Estudio Medico|SM|SM|Por definir|Ángel Z. Gutiérrez|
+|9|Medicamento|FR|FR|Por definir|Jareni Gómez|
+|10|Nacimiento|RG|RH|Por definir|Alejandro Briones|
+|11|Paciente|RG|RG|Por definir|Octavio López|
+|12|Persona|RG|RG|Por definir|José A. Fosado|
+|13|Personal Médico|RH|RH|Por definir|Leslie Aparicio|
+|14|Puesto|RH|RH|Por definir|Haziel Ortiz|
 |15|Rol|PM|PM|Por definir|MTI. Marco R.|
-|16|Servicio Medico|SM|SM|Por definir|Por definir|
+|16|Servicio Medico|SM|SM|Por definir|Raúl Reyes|
 |17|Usuario|PM|PM|Todos|MTI. Marco R.|
-|18|Valoración Médica|RG|RM|Todos|Octavio|
+|18|Valoración Médica|RG|RM|Todos|Jazziel Rodríguez|
+|<td colspan="6">**ENTIDADES DERIVADAS**</td>|
+|19|Receta Médica|FR|FR|Todos|Griselda Franco|
+|20|ServiciosMedicos_Consumibles|RM|RM, SM|Todos|Angel D. Reyes|
+|21|ServiciosMedicos_Espacios|RM|RM, SM|Todos|Irving Morales|
+|22|ServiciosMedicos_PersonalMedico|SM|SM,RH|Todos|Carolina Arias|
+|23|ServiciosMedicos_NotasMedicas|SM|SM,RM|Todos|Carlos Aranda|
+|24|Dispensancion_RecetaMedica|FR|FR,RM,SM|Todos|Abdiel Rivera|
+|25|LotesMedicamentos|FR|FR,RM|Todos|Esaú Vargas|
+|26|Solicitud_Adquisicion|FR|FR,RM|Todos|Daniel Loza|
 
 
 Abreviaturas de UDN's
