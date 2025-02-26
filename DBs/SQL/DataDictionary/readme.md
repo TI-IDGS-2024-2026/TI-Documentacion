@@ -93,6 +93,31 @@ Dado que este proyecto está orientado a la **gestión de Recursos Humanos en un
 |7|Espacio|RM|RM|Por definir|Mariano. F.|
 |8|Expediente Médico|TR|TR|Por definir|Julia M.|
 |9|Horario|RH|RH|Por definir|Jose Luis C.|
+|10|Indicador_Nutriciona|TR|TR|Por definir|Orlando M.|
+|11|Membresia|SaC|SaC|Por definir|Ana K. C.|
+|12|Objetivo_Programa|TR|RH|Por definir|Esperanza C.|
+|13|Producto|RM|RM|Por definir|Neftali V.|
+|14|Proveedor|RM|RM|Por definir|Yulissa O.|
+|15|Puesto|GR|GR|Por definir|Alex M.|
+|16|Queja_Sugerencia|SaC|SaC|Por definir|Alejandro R.|
+|17|Reservación|RH|RH|Por definir|Jose Luis C.|
+|18|Rol|PM|PM|Por definir|Marco A. Ramírez|
+|19|Rutina|TR|TR|Por definir|Zamira C.|
+|20|Servicio|GR|GR|Por Definir|Jesus A.|
+|21|Sesion|SaC|SaC|Por definir|Martín V.|
+|22|Sucursal|RM|RM|Por definir|Berenice A.|
+|23|Transaccion_Financiera|GR|GR|Por definir|Alina B.|
+|24|Unidad_Negocio|RH|RH|Por definir|Juan V.|
+|25|Usuario|PM|PM|Por definir|MTI Marco A. R|
+|26|Valoracion_Servicio|SaC|SaC|Por definir|Jaime V.|
+
+**ENTIDADES DERIVADAS**
+
+|*No.*|*Entidad (Tabla)* |*UDNs Dueño*|*UDNs Escritura*|*UDNs Lectura*|*Documentador*|
+|----------|--------|---|-------------|---|----|
+|1|Transacciones_Servicios|GR|GR|Ninguna|Carlos C.|
+|2|Colaborador_Servicio|RH|RH|Ninguna|Luis A. N.|
+
 
 
 Abreviaturas de UDN's
@@ -100,7 +125,8 @@ Abreviaturas de UDN's
    **GR:** Gerencia
    **RM:** Recursos Materiales
    **RH:** Recursos Humanos
-
+   **SaC:** Servicios al Cliente
+   **TR:** Training (Entrenamiento)
 
 
 Este documento servirá como referencia fundamental para garantizar la precisión y confiabilidad de la información dentro del sistema.  
