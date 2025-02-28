@@ -4,7 +4,7 @@
 
 ## 📂 Schema: `gimnasio_8b_idgs_220385`
 
-**📝 Description**: Base de datos para gestionar el sistema de un Gimnasio.
+**📝 Description**: Base de datos para gestionar el sistema de un Gimnasio
 
 ## 🗂️ Table: `tbb_transacciones`
 
