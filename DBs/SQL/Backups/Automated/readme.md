@@ -1,19 +1,17 @@
+ #  Respaldos Automatizados de SQL ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
  
- # Partial  (Respaldos Manuales Parciales)  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+###  Descripción
 
-En esta seccción se almacenarán los scripts de código para realizar los respaldos parciales manuales de las Bases de Datos Relacionales (SQL) que los administradores del sistema crean pertinentes. A raíz de posibles cambios o problemas en la operación de la plataforma.
-
+La **automatización de respaldos SQL** es una práctica fundamental para garantizar la seguridad y disponibilidad de la información en sistemas de bases de datos. Este proyecto está diseñado para realizar copias de seguridad de bases de datos SQL en intervalos programados, evitando la pérdida de datos ante fallos del sistema, errores humanos o ataques cibernéticos.
 
 ## Equipo de Desarrollo
 
-|Integrante|Contacto|Rol|Observaciones|
-|------------|--------|---|---|
-|M.T.I. Marco A. Ramírez Hernández|[@MTI-MarcoRH](https://github.com/MTI-MarcoRH)|Líder de Desarrollo FrontEnd|✔️  Revisado y aprobado|
-|Edgar Cruz Salas|[@Ederdal](https://github.com/Ederdal)|Desarrollador de DataBases|✔️  Revisado y aprobado|
-|Carolina Arias Reyes|[@pozole10](https://github.com/pozole10)|Desarrollador FronEnd|✔️  Revisado y aprobado|
-|Ángel Zacek Gutiérrez Cruz|[@zac-ek](https://github.com/zac-ek)|Desarrollador Backend|✔️  Revisado y aprobado|
+| Nombre | GitHub | Estado |
+|--------|--------|--------|
+| Brayn Kalid Reyes Silva | [@KalidRs](https://github.com/KalidRs) | ❌ Sin comentarios |
+| Luis Iván Márquez Azuara | [@luisivmaraz](https://github.com/luisivmaraz) | ❌ Sin comentarios |
+| Aldo Tolentino Domingo | [@Aldotd12](https://github.com/Aldotd12) | ✔️  Revisado y aprobado |
+| David Reyes Tellez | [@angelR003](https://github.com/angelR003) | ❌ Sin comentarios |
+| Irving Morales Dominguez | [@IrvingMordo26](https://github.com/IrvingMordo26) | ❌ Sin comentarios |
 
-
-
----
-Creado por: [@MTI-MarcoRH](https://github.com/MTI-MarcoRH).
+##### Realizado por [@Aldotd12](https://github.com/Aldotd12)
